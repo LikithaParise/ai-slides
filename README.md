@@ -43,6 +43,9 @@ npm run dev
 
 ## 📖 Usage
 
+<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/90a03b0d-9ecb-4705-a327-d855e940fa52" />
+
+
 ### Creating a New Presentation
 
 Simply type a prompt describing what you want. Examples:
