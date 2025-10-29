@@ -33,7 +33,6 @@ Example: `https://github.com/yourusername/ai-slides`
 - [Testing & sample prompts](#testing--sample-prompts)
 - [Troubleshooting](#troubleshooting)
 - [Security & best practices](#security--best-practices)
-- [License](#license)
 
 ---
 
