@@ -118,6 +118,9 @@ ai-slides/
 └── next.config.ts               # Next.js configuration
 ```
 
+<img width="1920" height="1078" alt="image" src="https://github.com/user-attachments/assets/ee8f11f7-fd22-43ce-8cf0-b69e0d1d4037" />
+
+
 ## 🎯 Features Breakdown
 
 ### Intelligent Prompt Parsing
