@@ -36,28 +36,5 @@ Example: `https://github.com/yourusername/ai-slides`
 
 ---
 
-## Project structure
+<img width="960" height="539" alt="image" src="https://github.com/user-attachments/assets/5c1984b9-917b-4696-862a-06e092b0ca42" />
 
-ai-slides/
-├─ .gitignore
-├─ README.md
-├─ package.json
-├─ package-lock.json
-├─ next.config.ts
-├─ tsconfig.json
-├─ global.d.ts # optional: declare module "pptxgenjs"
-├─ src/
-│ ├─ app/ # Next.js App Router
-│ │ ├─ layout.tsx
-│ │ ├─ page.tsx # client page with chat UI + pptx generation (use "use client")
-│ │ ├─ globals.css
-│ │ └─ api/
-│ │ └─ generate/
-│ │ └─ route.ts # server API - mock or Gemini call
-│ ├─ lib/
-│ │ └─ pptx.ts # optional helper for pptxgenjs
-│ └─ components/
-│ ├─ ChatWindow.tsx
-│ ├─ MessageInput.tsx
-│ └─ SlidePreview.tsx
-├─ data/ 
